@@ -143,7 +143,7 @@ def main():
 
         st.markdown(contact_form, unsafe_allow_html = True)
 
-        local_css('style/ContactForm.css')
+        local_css('Style/ContactForm.css')
 
         
                 
